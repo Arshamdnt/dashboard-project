@@ -2,6 +2,7 @@
   "name": "my",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://<your-username>.github.io/<your-repository-name>"و
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
