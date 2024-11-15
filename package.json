@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://Arshamdnt.github.io/dashboard-project",
+<<<<<<< HEAD
 
+=======
+>>>>>>> f5ea71c2a9ff453ad242445fa707ff2d4178d2a0
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
